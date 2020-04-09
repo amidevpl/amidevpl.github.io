@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "http://amidevpl.github.io"
 title = "AmIDev blog"
 theme = "ghostwriter"
 languageCode = "en-us"
