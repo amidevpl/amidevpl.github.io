@@ -4,7 +4,7 @@ theme = "ghostwriter"
 languageCode = "en-us"
 copyright = "amidevpl@gmail.com"
 disqusShortname = "XXX"
-publishDir = "amidevpl.github.io"
+publishDir = "docs"
 
 [Privacy]
 
